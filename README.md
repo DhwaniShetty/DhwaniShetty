@@ -3,7 +3,26 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on Git and Github **github1**
+# Hi, I'm Dhwani 👋
 
+🚗 Building autonomous EV systems  
+🧠 Exploring Agentic AI & robotics  
+🖥️ Interested in distributed SBC architectures  
+📡 Working on telemetry & embedded systems
+
+## Current Focus
+- Autonomous EV software stack
+- Multi Raspberry Pi compute systems
+- Telemetry dashboards
+- AI agents
+
+## Tech Stack
+Python • C++ • Linux • Git • Raspberry Pi • OpenCV
+
+## Goals for 2026
+- Build a working autonomy prototype
+- Publish technical devlogs
+- Contribute to robotics/open-source
 - 📫 How to reach me **dhwanishetty774@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
