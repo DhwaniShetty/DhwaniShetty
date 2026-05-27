@@ -1,8 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dhwani Shetty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Git and Github **github1**
 # Hi, I'm Dhwani 👋
 
 🚗 Building autonomous EV systems  
@@ -23,7 +20,8 @@ Python • C++ • Linux • Git • Raspberry Pi • OpenCV
 - Build a working autonomy prototype
 - Publish technical devlogs
 - Contribute to robotics/open-source
-- 📫 How to reach me **dhwanishetty774@gmail.com**
+
+ How to reach me **dhwanishetty774@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
